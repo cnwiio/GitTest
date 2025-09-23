@@ -6,7 +6,7 @@ namespace game
 {
     public class Game1 : Game
     {
-        // update feature4
+        // update playerJump
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
