@@ -10,6 +10,8 @@ namespace game
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        public string home;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
