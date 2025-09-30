@@ -13,6 +13,8 @@ namespace game
 
         public string home;
 
+        private int UzawaReisa = 69;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
