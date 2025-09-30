@@ -9,6 +9,7 @@ namespace game
         // update playerJump
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        char IloveGooning;
 
         public string home;
 
