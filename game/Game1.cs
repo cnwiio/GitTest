@@ -37,7 +37,7 @@ namespace game
                 Exit();
 
             // TODO: Add your update logic here
-
+            // Edited in Feature_Walking
             base.Update(gameTime);
         }
 
